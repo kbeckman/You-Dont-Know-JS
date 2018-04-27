@@ -1,4 +1,3 @@
-# You Don't Know JS: Scope & Closures
 # Appendix C: Lexical-this
 
 Though this title does not address the `this` mechanism in any detail, there's one ES6 topic which relates `this` to lexical scope in an important way, which we will quickly examine.

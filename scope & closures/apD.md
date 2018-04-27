@@ -1,4 +1,3 @@
-# You Don't Know JS: Scope & Closures
 # Appendix D: Acknowledgments
 
 I have many people to thank for making this book title and the overall series happen.
