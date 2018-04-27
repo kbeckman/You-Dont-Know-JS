@@ -1,4 +1,3 @@
-# You Don't Know JS: *this* & Object Prototypes
 # Appendix B: Acknowledgments
 
 I have many people to thank for making this book title and the overall series happen.

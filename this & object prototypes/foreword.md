@@ -1,4 +1,3 @@
-# You Don't Know JS: *this* & Object Prototypes
 # Foreword
 
 While reading this book in preparation for writing this foreword, I was forced to reflect on how I learned JavaScript and how much it has changed over the last 15 years that I have been programming and developing with it.

@@ -1,4 +1,3 @@
-# You Don't Know JS: *this* & Object Prototypes
 # Appendix A: ES6 `class`
 
 If there's any take-away message from the second half of this book (Chapters 4-6), it's that classes are an optional design pattern for code (not a necessary given), and that furthermore they are often quite awkward to implement in a `[[Prototype]]` language like JavaScript.

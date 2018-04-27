@@ -1,4 +1,3 @@
-# You Don't Know JS: *this* & Object Prototypes
 # Chapter 4: Mixing (Up) "Class" Objects
 
 Following our exploration of objects from the previous chapter, it's natural that we now turn our attention to "object oriented (OO) programming", with "classes". We'll first look at "class orientation" as a design pattern, before examining the mechanics of "classes": "instantiation", "inheritance" and "(relative) polymorphism".
