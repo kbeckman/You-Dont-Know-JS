@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# YDKJS - Scope & Closures
+# YDKJS - Types & Grammar
 pandoc toc.md \
   foreword.md \
   ../preface.md \
