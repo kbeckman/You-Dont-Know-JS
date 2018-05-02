@@ -1,4 +1,3 @@
-# You Don't Know JS: Async & Performance
 # Appendix B: Advanced Async Patterns
 
 Appendix A introduced the *asynquence* library for sequence-oriented async flow control, primarily based on Promises and generators.

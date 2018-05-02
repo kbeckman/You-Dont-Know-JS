@@ -1,5 +1,3 @@
-# You Don't Know JS: Async & Performance
-
 ## Table of Contents
 
 * Foreword
