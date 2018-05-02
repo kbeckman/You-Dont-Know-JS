@@ -1,4 +1,3 @@
-# You Don't Know JS: Up & Going
 # Foreword
 
 What was the last new thing you learned?

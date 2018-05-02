@@ -1,5 +1,3 @@
-# You Don't Know JS: Up & Going
-
 ## Table of Contents
 
 * Foreword
