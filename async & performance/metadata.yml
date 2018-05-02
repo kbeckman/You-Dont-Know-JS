@@ -1,14 +1,14 @@
 ---
-title: "You Don't Know JS: Types & Grammar"
+title: "You Don't Know JS: Async & Performance"
 creator:
   - role: author
     text: Kyle Simpson
 identifier:
   - scheme: ISBN-13
-    text: 978-1491904190
+    text: 978-1491904220
   - scheme: ISBN-10
-    text: 1491904194
-date: "Jan 23, 2015"
+    text: 1491904224
+date: "Feb 19, 2015"
 cover-image: cover.jpg
 page-progression-direction: ltr
 ---

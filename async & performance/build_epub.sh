@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# YDKJS - Scope & Closures
+# YDKJS - Async & Performance
 pandoc toc.md \
   foreword.md \
   ../preface.md \
