@@ -1,4 +1,3 @@
-# You Don't Know JS: Types & Grammar
 # Chapter 2: Values
 
 `array`s, `string`s, and `number`s are the most basic building-blocks of any program, but JavaScript has some unique characteristics with these types that may either delight or confound you.

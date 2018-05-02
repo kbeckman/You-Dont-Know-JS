@@ -1,4 +1,3 @@
-# You Don't Know JS: Types & Grammar
 # Chapter 1: Types
 
 Most developers would say that a dynamic language (like JS) does not have *types*. Let's see what the ES5.1 specification (http://www.ecma-international.org/ecma-262/5.1/) has to say on the topic:

@@ -1,4 +1,3 @@
-# You Don't Know JS: Types & Grammar
 # Chapter 4: Coercion
 
 Now that we much more fully understand JavaScript's types and values, we turn our attention to a very controversial topic: coercion.

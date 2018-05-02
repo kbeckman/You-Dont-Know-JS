@@ -1,5 +1,3 @@
-# You Don't Know JS: Types & Grammar
-
 ## Table of Contents
 
 * Foreword

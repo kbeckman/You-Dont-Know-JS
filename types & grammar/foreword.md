@@ -1,4 +1,3 @@
-# You Don't Know JS: Types & Grammar
 # Foreword
 
 It was once said, "JavaScript is the only language developers don't learn to use before using it."
