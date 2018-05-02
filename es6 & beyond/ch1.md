@@ -1,4 +1,3 @@
-# You Don't Know JS: ES6 & Beyond
 # Chapter 1: ES? Now & Future
 
 Before you dive into this book, you should have a solid working proficiency over JavaScript up to the most recent standard (at the time of this writing), which is commonly called *ES5* (technically ES 5.1). Here, we plan to talk squarely about the upcoming *ES6*, as well as cast our vision beyond to understand how JS will evolve moving forward.

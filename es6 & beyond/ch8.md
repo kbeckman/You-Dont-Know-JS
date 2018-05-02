@@ -1,4 +1,3 @@
-# You Don't Know JS: ES6 & Beyond
 # Chapter 8: Beyond ES6
 
 At the time of this writing, the final draft of ES6 (*ECMAScript 2015*) is shortly headed toward its final official vote of approval by ECMA. But even as ES6 is being finalized, the TC39 committee is already hard at work on features for ES7/2016 and beyond.

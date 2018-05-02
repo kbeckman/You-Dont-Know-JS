@@ -1,5 +1,3 @@
-# You Don't Know JS: ES6 & Beyond
-
 ## Table of Contents
 
 * Foreword

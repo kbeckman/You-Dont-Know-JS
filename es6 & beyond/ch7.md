@@ -1,4 +1,3 @@
-# You Don't Know JS: ES6 & Beyond
 # Chapter 7: Meta Programming
 
 Meta programming is programming where the operation targets the behavior of the program itself. In other words, it's programming the programming of your program. Yeah, a mouthful, huh?

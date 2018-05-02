@@ -1,4 +1,3 @@
-# You Don't Know JS: ES6 & Beyond
 # Chapter 2: Syntax
 
 If you've been writing JS for any length of time, odds are the syntax is pretty familiar to you. There are certainly many quirks, but overall it's a fairly reasonable and straightforward syntax that draws many similarities from other languages.
