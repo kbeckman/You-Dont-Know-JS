@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+rm -rf epubs
 mkdir -p epubs
 
 echo "Compiling YDKJS - Up & Going..."
