@@ -1,4 +1,3 @@
-# You Don't Know JS: Up & Going
 # Chapter 2: Into JavaScript
 
 In the previous chapter, I introduced the basic building blocks of programming, such as variables, loops, conditionals, and functions. Of course, all the code shown has been in JavaScript. But in this chapter, we want to focus specifically on things you need to know about JavaScript to get up and going as a JS developer.
@@ -79,7 +78,7 @@ obj["c"];	// true
 
 It may be helpful to think of this `obj` value visually:
 
-<img src="fig4.png">
+<img src="fig4.png" />
 
 Properties can either be accessed with *dot notation* (i.e., `obj.a`) or *bracket notation* (i.e., `obj["a"]`). Dot notation is shorter and generally easier to read, and is thus preferred when possible.
 
@@ -126,7 +125,7 @@ typeof arr;		// "object"
 
 It may be helpful to think of `arr` visually:
 
-<img src="fig5.png">
+<img src="fig5.png" />
 
 Because arrays are special objects (as `typeof` implies), they can also have properties, including the automatically updated `length` property.
 
@@ -836,7 +835,7 @@ bar.a;		// 42 <-- delegated to `foo`
 
 It may help to visualize the `foo` and `bar` objects and their relationship:
 
-<img src="fig6.png">
+<img src="fig6.png" />
 
 The `a` property doesn't actually exist on the `bar` object, but because `bar` is prototype-linked to `foo`, JavaScript automatically falls back to looking for `a` on the `foo` object, where it's found.
 
