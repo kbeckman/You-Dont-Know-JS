@@ -233,7 +233,7 @@ The simple rules for traversing nested *Scope*: *Engine* starts at the currently
 
 To visualize the process of nested *Scope* resolution, I want you to think of this tall building.
 
-<img src="fig1.png" width="250">
+<img src="fig1.png" alt="missing fig1.png" style="width: 250px" />
 
 The building represents our program's nested *Scope* rule set. The first floor of the building represents your currently executing *Scope*, wherever you are. The top level of the building is the global *Scope*.
 
